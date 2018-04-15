@@ -1,4 +1,4 @@
-import optional from "../src";
+import { optional } from "../src";
 
 type User = {
   name?: {
